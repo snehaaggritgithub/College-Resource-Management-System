@@ -1,15 +1,7 @@
 # college_resource
 
-This project is basically the booking for all the resource available in your college for4 the better utilization of the resources. 
-This is a menu driven project in whihc you will be asked to login as a Admin or Member. You will allocate the resource with their timezone when you will login as admin. 
-Admin has certain priviligaes and Member has alos certain privilages which will be diplayed on screnn when you make your login.
+This project is used for the booking of resources which are available in a college so as to better utilize them. It is a menu driven project in which we will be asked to login as an admin or as a member then you will allocate those resources with their time zone. Admin and member have certain privileges which will be displayed on the screen when you make your login. 
 
-OBJECTIVE:
-To use various data structure algorithms
-Doubly Linked list
-Stack
-Queue
-Searchig & Sorting
 
 #Makefile
 I have used traditional way of compiling all the header files. 
